@@ -7,7 +7,7 @@ This project implements the Banker's Algorithm to determine whether a system is 
 - `Makefile` — Build instructions  
 - `input.txt` — Input data file containing Allocation, Max, and Available matrices  
 - `README.md` — This file  
-- `example.txt` — Showcase of run and output  
+- `example.txt` — Showcase of execution and output  
 
 ---
 
