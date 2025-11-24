@@ -1,0 +1,5 @@
+cstai@ubuntu# make banker; ./banker 
+c++     banker.cpp   -o banker
+
+The system *IS* in a safe state.
+Safe sequence: P3 -> P4 -> P1 -> P2 -> P0

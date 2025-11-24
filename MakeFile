@@ -1,0 +1,10 @@
+CXX = g++
+CXXFLAGS = -std=c++17 -Wall
+
+all: banker
+
+banker: banker.cpp
+	$(CXX) $(CXXFLAGS) -o banker banker.cpp
+
+clean:
+	rm -f banker
