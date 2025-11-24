@@ -14,3 +14,4 @@ This project implements the Banker's Algorithm to determine whether a system is 
 ## Usage
 ```bash
 make run
+./banker
